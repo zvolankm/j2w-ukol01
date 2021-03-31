@@ -6,7 +6,10 @@ medailonek zobrazen na úvodní stránce.
 
 1. Udělej fork zdrojového repository do svého účtu na GitHubu.
 1. Naklonuj si repository **ze svého účtu** na GitHubu na lokální počítač.
+1. Vytvoř v projektu adresář `src/main/resources` a v něm `/src/main/resources/static` – v IntelliJ Idea klikni pravým tlačíktme myši na adresář `/src/main`,
+   zvol `New→Directory` a zadej jméno adresáře.
 1. V adresáři `/src/main/resources/static/` (případně v jeho podadresářích) vytvoř/nakopíruj soubory potřebné pro web.
+1. Hlavní soubor, který se bude zobrazovat v prohlížeči, musí být přímo v adresáři `static` a musí se jmenovat `index.html`. Další soubory mohou být v podadresářích. 
 1. Zkontroluj si v prohlížeči, že medailonek vypadá podle tvých představ.
 1. *Commitni* svou úpravu do lokálního git repository.
 1. *Pushni* svou úpravu do vzdáleného repository na svém účtu na GitHubu.
