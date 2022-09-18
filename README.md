@@ -31,5 +31,5 @@ svědomím )plně vynechat.
 
 ### Odkazy
 
-* odkaz na stránku [Lekce 1](https://czechitas-java-2-webapps.nyni.eu/lekce-1)
-* odkaz na stránku s úkolem [Lekce 1 – úkol 1](https://czechitas-java-2-webapps.nyni.eu/lekce-1/ukol-1)
+* odkaz na stránku [Lekce 1](https://java.czechitas.cz/2022-podzim/java-2-online/lekce-1.html)
+* odkaz na stránku s úkolem [Lekce 1 – úkol 1](https://java.czechitas.cz/2022-podzim/java-2-online/ukol-1.html)
