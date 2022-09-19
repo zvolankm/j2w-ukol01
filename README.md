@@ -14,7 +14,7 @@ medailonek zobrazen na úvodní stránce.
 1. *Commitni* svou úpravu do lokálního git repository.
 1. *Pushni* svou úpravu do vzdáleného repository na svém účtu na GitHubu.
 1. Zkontroluj na GitHubu, že se tam objevil tvůj poslední commit a že v adresáři `/src/main/resources/static/` jsou všechny potřebné soubory.
-1. Vlož odkaz na své repository (ve tvaru `https://github.com/<tvuj-login>/j2w-ukol01`)' do tabulky na Google Drive.
+1. Vlož odkaz na své repository (ve tvaru `https://github.com/<tvuj-login>/j2w-ukol01`) v odevzdávárně úkolů na [Moje Czechitas](https://moje.czechitas.cz/).
 
 Pokud později zjistíš, že je v tvém kódu nějaká chyba, nebo budeš chtít něco vylepšit, uprav své soubory lokálně a zopakuj dvojici `commit` a `push`.
 
