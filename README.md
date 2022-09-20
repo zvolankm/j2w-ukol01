@@ -4,7 +4,8 @@ Cílem je připravit si svůj osobní webový medailonek (například na úrovni
 Soubory tvořící webovou stránku (`index.html`, styly, obrázky, …) uložíš do adresáře `/src/main/resources/static/` tak, aby při spuštění tvé aplikace byl
 medailonek zobrazen na úvodní stránce.
 
-1. Udělej fork zdrojového repository do svého účtu na GitHubu.
+1. Udělej fork zdrojového (tohoto) repository do svého účtu na GitHubu – vpravo nahoře tlačítkem *Fork*.
+1. Po vytvoření forku povol u repository ve svém GitHub účtu Issues. V horním menu menu pod názvem repository záložka Settings → zůstaň na stránce *General* → sekce *Features* → zaškrtni *Issues*. Ostatní volby mohou zůstat vypnuté.
 1. Naklonuj si repository **ze svého účtu** na GitHubu na lokální počítač.
 1. Vytvoř v projektu adresář `src/main/resources` a v něm `/src/main/resources/static` – v IntelliJ Idea klikni pravým tlačíktme myši na adresář `/src/main`,
    zvol `New→Directory` a zadej jméno adresáře.
