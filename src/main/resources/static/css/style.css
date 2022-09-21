@@ -6,15 +6,64 @@ html {
     box-sizing: inherit;
 }
 body {
-    font-family: 'Roboto', sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    background-color: white;
-    color: black;
+    margin: 0;
+    font-size: +40px;
+    font-style: Roboto;
+}
+.logo {
+    background-color: #f5f5f5;
+    font-size: 12px;
+    font-style: italic;
+    color: blue;
+    text-align: center;
 }
 
-.jumbotron {
-    font-size: 72px;
+
+/* zde budeme psát náš kód */
+h1 {
+    color:#e5007d;
+    font-size: 48px;
+}
+h2 {
+    color:#e5007d;
+    font-size: 36px;
+}
+h3 {
+    color:#e5007d;
+    font-size: 24px;
+}
+
+
+
+.o-mne{
+    background-color: #e5007d;
+    color: white;
+    text-align: center;
+
+}
+
+.zajmy{
+    background-color: #f5f5f5;
+    text-align: center;
+
+}
+
+ul{
+    display:flex;
+    list-style: none;
+    padding: 0 px;
+    margin: 0 px;
+}
+li{
+    width: 33.33%;
+    padding: 16 px;
+    margin-right: 16 px;
+    margin-left: 16 px;
+    border: 4px dotted #d3d3d3;
+}
+.obsah{
+    max-width: 900px;
+    padding: 24px;
+    margin-left:auto;
+    margin-right:auto;
 }
